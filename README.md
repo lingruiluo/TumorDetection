@@ -1,1 +1,3 @@
-# Applied Deep Learning Final Project ----- Tumor Detection 
+# Tumor Detection 
+
+### Applied Deep Learning Final Project
